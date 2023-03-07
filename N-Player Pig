@@ -1,5 +1,3 @@
-// 
-
 import random
 r = random.Random()
 seed = int(input('Welcome to PIG. Enter a seed (int): '))
