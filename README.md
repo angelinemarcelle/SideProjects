@@ -1,12 +1,12 @@
 # SideProjects
 
 There are various mini games programmed using Python. Starting from classic games such as Tic-Tac-Toe to more hardly heard games such as n-Queen.
-The rules of the games are as shown below.
+The game's rules are shown below:
 
 
 1. Tic-Tac-Toe
-   The game is played by 2 people who take turns marking the spaces in a three-by-three grid with X or O. 
-   The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
+   Two players alternately mark the spots on a three by three grid with an X or an O to play the game. 
+   The winner is the player who successfully arranges three of their marks in a row that is either horizontal, vertical, or diagonal.
    
 2. Notakto
    Notakto is a tic-tac-toe variant. It is played across three 3 x 3 boards: Board A, board B and board C.
@@ -16,17 +16,14 @@ The rules of the games are as shown below.
    The game ends when all the boards contain three X in a row, column, or diagonal, at which point the player to have made the last move loses the game.
    
 3. n-Queen
-   N-Queen game is inspired by the Eight Queens Puzzle. It played on a user's determined size of board. The user has to make sure
-   so that no two queens threaten each other; thus, a solution requires that no two queens share the same row, column, or diagonal.
-   First, the user will be asked to supply the value for n. An empty board will be shown.
-   Next the user will enter the positions of the n queens. A board with the n Queens will be shown. 
+   N-Queen game is inspired by the Eight Queens Puzzle. It played on a size of board that users are free to determine. The user has to make sure
+   that no two queens threaten each other; thus, a solution requires that no two queens share the same row, column, or diagonal.
+   First, the user will be asked to supply the value for n. Next, the user will enter the positions of the n queens.
    SUCCESS will be shown if no queens are attacking each other. FAIL if there are queens attacking each other. 
    
 4. Connect Four
    Connect four is a connection game in which two players take turns dropping discs into a (6 x 7) board, i.e., 6 rows x 7 columns. 
    The pieces fall straight down, occupying the lowest available space within the column. 
    The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs.
-
-
-
-
+   
+Happy playing!
