@@ -4,7 +4,7 @@ There are various mini games programmed using Python. Starting from classic game
 The game's rules are shown below:
 
 
-1. Tic-Tac-Toe
+1. Tic-Tac-Toe "\n"
    Two players alternately mark the spots on a three by three grid with an X or an O to play the game. 
    The winner is the player who successfully arranges three of their marks in a row that is either horizontal, vertical, or diagonal.
    
